@@ -1,7 +1,7 @@
 from github import Github
 
 # Replace with your personal access token
-token = "YOUR_PERSONAL_ACCESS_TOKEN"
+token = "TOKEN"
 
 def main():
     g = Github(token)
